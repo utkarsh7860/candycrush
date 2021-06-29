@@ -13,6 +13,7 @@ const candyColors = [
     'url(pictures/orange-candy.png)',
     'url(pictures/purple-candy.png)',
     'url(pictures/green-candy.png)',
+    'url(pictures/blue-candy.png)',
     'url(pictures/blue-candy.png)'
   ]
 
